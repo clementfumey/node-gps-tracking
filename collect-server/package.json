@@ -1,0 +1,21 @@
+{
+  "name": "tracking-server",
+  "private": true,
+  "version": "0.0.0",
+  "description": "server de collecte tk102",
+  "keywords": [],
+  "dependencies": {
+    "tk102": "~1.1.0"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "debug": "node debug app.js"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/clement/tracking-server.git"
+  },
+  "author": "clement",
+  "license": ""
+}
